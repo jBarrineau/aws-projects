@@ -1,2 +1,2 @@
-# aws-projects
-A collection of projects utilizing AWS services
+# AWS Projects
+A collection of projects utilizing AWS services.
